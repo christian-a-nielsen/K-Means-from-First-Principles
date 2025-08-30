@@ -11,9 +11,9 @@ This project implements the k-means clustering algorithm from scratch and applie
 - Application to high-dimensional data (MNIST)
 
 📂 Contents:
-- `MA326_Project1.ipynb` — full implementation in Python
-- `k_means_from_first_principles.pdf` — project report
-- 
+- `k_means_first_principles.pdf` — full implementation in Python
+- `k_means_first_principles.pdf` — project report
+  
 ⚡ Highlights:
 - k++ initialization consistently yields lower coherence compared to random initialization
 - On MNIST, k-means achieved 52.5% accuracy
